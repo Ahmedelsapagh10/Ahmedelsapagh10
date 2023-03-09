@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedelsapagh-portfolio.web.app/](https://ahmedelsapagh-portfolio.web.app/)
 
-- 📝 I regularly share vidoes about Programming on [https://www.youtube.com/channel/UCgEj5nlK8_5MrADHCzqOMUA](https://www.youtube.com/channel/UCgEj5nlK8_5MrADHCzqOMUA)
+- 📝 I regularly share vidoes about Programming on [https://www.youtube.com/@ahmed_elsapagh](https://www.youtube.com/@ahmed_elsapagh)
 
 - 💬 Ask me about **Dart, Flutter .**
 
