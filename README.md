@@ -18,7 +18,7 @@
 <a href="https://twitter.com/ahmedelsapagh8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedelsapagh8" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmed-elsapagh-aa8010220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-elsapagh-aa8010220/" height="30" width="40" /></a>
 <a href="https://fb.com/ahmedmelsapagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedmelsapagh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ahmed_elsapagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ahmed_elsapagh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCgEj5nlK8_5MrADHCzqOMUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ahmed_elsapagh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
