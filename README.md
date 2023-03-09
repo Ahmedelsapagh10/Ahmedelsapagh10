@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ahmed ELsapagh</h1>
-<h2 align="center">Intersted in Mobile Development [Flutter - Dart]</h2>
 
-- 🌱 I’m currently learning **learning more about Flutter**
+## About Me :computer:
+ - **i'm Flutter developer, seeking for opportunity to work and gain more knowledge/experience on
+flutter - dart, have a clear understanding and experience in Flutter framework and Dart
+programming language. 🧠**
+
+<p align="center">
+<img align='center' src='https://cdn-icons-png.flaticon.com/512/3242/3242257.png' width='200"'>
+</p>
+<h2 align="center">I'm A Flutter - Dart Developer</h2>
+
+- 🌱 I’m currently learning  more about Flutter
 
 - 👨‍💻 All of my projects are available at [https://ahmedelsapagh-portfolio.web.app/](https://ahmedelsapagh-portfolio.web.app/)
 
