@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed ELsapagh</h1>
 
 ## About Me :computer:
- - ** I'm a Flutter developer with over two years of experience, creating apps that people love on
+ - **I'm a Flutter developer with over two years of experience, creating apps that people love on
  Google Play and the Apple Store. I've worked on cool projects like Elmazoon, an app for
  studying with over 4000 students, and Cheebo, a fun community for pet lovers. I graduated
  from Menoufia University, where our team got the second-best spot for our AR Pharmacy
  System project. I also teach Flutter at GDSC FSS in Tunis and share tech tips on my YouTube
- channel. Let's build something awesome together. 🧠**
+ channel. Let's build something awesome together.🧠**
 
 <p align="center">
 <img align='center' src='https://cdn-icons-png.flaticon.com/512/3242/3242257.png' width='200"'>
