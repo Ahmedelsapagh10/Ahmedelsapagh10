@@ -19,7 +19,7 @@
 - Led development of 8+ commercial apps including Elmazoon (4k+ students), Beda3a, and MedoSedo
 - Architected solutions using Clean Architecture with Cubit/Provider state management
 - Integrated complex features: Payment gateways, Google Maps, Firebase FCM, and Odoo ERP
-- Successfully published 5+ apps on Google Play & App Store with 4.8+ avg rating
+- Successfully published 20+ apps on Google Play & App Store with 4.8+ avg rating
 
 ### **NeuralBey** (Remote) | _Flutter Developer_  
 **March 2023 - Present**  
