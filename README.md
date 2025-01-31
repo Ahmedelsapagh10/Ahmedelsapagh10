@@ -40,10 +40,10 @@
 
 <p align="center">
   <strong>Core:</strong> Flutter | Dart | Clean Architecture | SOLID Principles<br>
-  <strong>State Management:</strong> BLoC | Cubit | Provider | Riverpod<br>
-  <strong>Backend:</strong> Firebase | Node.js | REST APIs | GraphQL | JWT<br>
+  <strong>State Management:</strong> BLoC | Cubit | Provider | Getx<br>
+  <strong>Backend:</strong> Firebase | Node.js | REST APIs | JWT<br>
   <strong>Database:</strong> SQLite | Hive | SharedPreferences | MongoDB<br>
-  <strong>DevOps:</strong> GitHub Actions | CI/CD | Fastlane | Play Console<br>
+  <strong>DevOps:</strong> GitHub Actions | Play Console<br>
   <strong>UI/UX:</strong> Material Design | Responsive Layouts | Lottie Animations<br>
   <strong>Tools:</strong> Figma | Postman | Android Studio | VS Code
 </p>
