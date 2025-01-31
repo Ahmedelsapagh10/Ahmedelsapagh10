@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elsapagh</h1>
-<h3 align="center">Senior Flutter Developer | Mobile App Architect | Technical Mentor</h3>
+<h3 align="center">Senior Flutter Developer | Content Creator | Technical Mentor</h3>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="150" alt="Developer Icon">
