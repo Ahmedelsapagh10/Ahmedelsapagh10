@@ -59,10 +59,10 @@
 | Project | Description | Technologies | Highlights |
 |---------|-------------|--------------|------------|
 | **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Integrated live video streaming |
-| **[Cheebo](https://example.com)** | Pet Community App | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet appointment scheduling |
-| **[AR Pharmacy](https://example.com)** | AR Medication Visualizer | Flutter, Unity, ARCore | • 2nd place university competition<br>• 3D model integration |
+| **[Cheebo](https://play.google.com/store/apps/details?id=com.neuralbey.cheebo)** | Pet Community App | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet appointment scheduling |
+| **[HR System](https://play.google.com/store/apps/details?id=com.topbusiness.unocafe)** | HR management system | • HR management app designed to streamline employee attendance, salary tracking, and leave management. Easily record check-ins and check-outs, manage advances and leave requests, and access detailed reports to boost productivity and efficiency. |
 | **[MedoSedo](https://example.com)** | E-commerce Solution | Flutter, Odoo, Payment Gateways | • Multi-vendor support<br>• 15% conversion rate boost |
-| **[Deals CRM](https://example.com)** | Sales Management System | Flutter, Odoo ERP, BI Tools | • Automated sales reporting<br>• 20% team productivity increase |
+| **[Deals CRM](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP, BI Tools | • Automated sales reporting<br>• 20% team productivity increase |
 
 ---
 
@@ -90,10 +90,9 @@
 
 <h2 align="center">🌟 Community Presence</h2>
 
-- **YouTube:** 50+ Flutter tutorials (1k+ subs)
+- **YouTube:** 100+ Flutter tutorials (5.1k+ subs)
 - **Medium:** Technical writer (15k+ reads)
 - **GDSC Tunis:** Lead Flutter mentor
-- **Stack Overflow:** Top 10% Flutter contributor
 
 <div align="center">
   <a href="https://www.youtube.com/@ahmed_elsapagh" target="_blank">
@@ -101,9 +100,6 @@
   </a>
   <a href="https://linkedin.com/in/ahmed-elsapagh-aa8010220/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/ahmedelsapagh10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 
