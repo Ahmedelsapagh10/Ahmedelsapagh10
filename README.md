@@ -32,7 +32,6 @@
 **2022 - Present**  
 - Trained 50+ students through 8 intensive Dart/Flutter workshops
 - Created project-based curriculum covering REST APIs, Firebase, and BLoC
-- 
 ---
 
 <h2 align="center">🎯 Technical Expertise</h2>
