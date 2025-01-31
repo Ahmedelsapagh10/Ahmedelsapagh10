@@ -72,17 +72,25 @@
 
 ---
 
+---
+
 <h2 align="center">🏆 Key Projects</h2>
 
 | Project | Description | Technologies | Highlights |
 |---------|-------------|--------------|------------|
-| **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Integrated live video streaming |
-| **[Cheebo](https://play.google.com/store/apps/details?id=com.neuralbey.cheebo)** | Pet Community App | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet appointment scheduling |
-| **[HR System](https://play.google.com/store/apps/details?id=com.topbusiness.unocafe)** | HR management system | • HR management app designed to streamline employee attendance, salary tracking, and leave management. Easily record check-ins and check-outs, manage advances and leave requests, and access detailed reports to boost productivity and efficiency. |
-| **[MedoSedo](https://example.com)** | E-commerce Solution | Flutter, Odoo, Payment Gateways | • Multi-vendor support<br>• 15% conversion rate boost |
-| **[Deals CRM](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP, BI Tools | • Automated sales reporting<br>• 20% team productivity increase |
+| **[Cheebo](https://play.google.com/store/apps/details?id=com.neuralbey.cheebo)** | Pet Community App (10k+ users) | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet e-consultation feature |
+| **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Live sessions & exam system |
+| **[MedoSedo](https://play.google.com/store/apps/details?id=com.topbusiness.medosedo_ecom)** | Multi-Vendor E-commerce | Flutter, Odoo, Payment Gateways | • 15% conversion boost<br>• Vendor management system |
+| **[Deals CRM](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP | • Automated reporting<br>• 20% team productivity gain |
+| **[unocafe HR](https://play.google.com/store/apps/details?id=com.topbusiness.unocafe)** | Employee Management | Flutter, Firebase | • Attendance tracking<br>• Salary/payroll automation |
+| **[Salony](https://play.google.com/store/apps/details?id=com.topbusiness.salony)** | Beauty Services Marketplace | Flutter, Firebase, Google Maps | • Salon booking system<br>• Service provider ratings<br>• Geo-based recommendations<br>• Product catalog integration |
+| **[Wallpaper Hub](https://github.com/Ahmedelsapagh10/wallpaper-hub)** | Image Discovery App | Flutter, BLoC, Dio | • Offline-first design<br>• Advanced search filters |
+| **[NT Express](https://read.cv/elsapagh)** | Logistics Solution | Flutter, Google Maps | • Real-time tracking<br>• Delivery optimization |
+| **[Well Seven](https://play.google.com/store/apps/details?id=com.topbusiness.well_seven_new)** | Grocery Marketplace | Flutter, Firebase, Google Maps | • Fresh food marketplace (meat, fish, produce)<br>• Seller product listings<br>• Quality rating system<br>• 1-hour delivery guarantee<br>• Interactive shopping cart
+| **[Beda3a](https://play.google.com/store/apps/details?id=com.topbusiness.bed3aecom)** | Deals & Discounts App | Flutter, Odoo | • Geo-targeted offers<br>• Coupon management |
 
 ---
+
 
 <h2 align="center">📚 Education & Achievements</h2>
 
