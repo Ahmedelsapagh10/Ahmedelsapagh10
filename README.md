@@ -30,10 +30,9 @@
 
 ### **GDSC FSS Tunis** | _Flutter Mentor_  
 **2022 - Present**  
-- Trained 100+ students through 8 intensive Dart/Flutter workshops
+- Trained 50+ students through 8 intensive Dart/Flutter workshops
 - Created project-based curriculum covering REST APIs, Firebase, and BLoC
-- Mentored 5 student teams to publish their first Play Store apps
-
+- 
 ---
 
 <h2 align="center">🎯 Technical Expertise</h2>
