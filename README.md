@@ -46,9 +46,29 @@
   <strong>Tools:</strong> Figma | Postman | Android Studio | VS Code
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,git,figma,github,postman&perline=8" alt="Tech Stack">
-</div>
+
+<p align="center">
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
+  </a>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+  </a>
+</p>
+
+---
 
 ---
 
@@ -107,6 +127,5 @@
 <p align="center">
   Ready to turn your app idea into reality?<br>
   <a href="mailto:ahmedelsapagh179@gmail.com">📧 Email Me</a> | 
-  <a href="https://calendly.com/ahmed-elsapagh">📅 Schedule Call</a> | 
-  <a href="https://read.cv/ahmedelsapagh">📄 View CV</a>
+  <a href="https://read.cv/elsapagh">📄 View CV</a>
 </p>
