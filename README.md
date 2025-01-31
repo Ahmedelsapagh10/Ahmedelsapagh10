@@ -1,113 +1,119 @@
-<h1 align="center">👋 Hi, I'm Ahmed Elsapagh</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Elsapagh</h1>
+<h3 align="center">Senior Flutter Developer | Mobile App Architect | Technical Mentor</h3>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="150" alt="Developer Icon">
 </p>
 
----
-
-## 💻 About Me
-
-I'm a passionate **Flutter Developer** with over **two years of experience** building engaging and high-performance apps for both **Google Play** and the **Apple Store**. I love transforming ideas into reality through the power of mobile development, ensuring user-centric design, and smooth performance.
-
-### Projects I’ve worked on include:
-- **Elmazoon**: A comprehensive study app used by over **4,000 students**.
-- **Cheebo**: A social platform bringing **pet lovers** together.
-- **MedoSedo**: A streamlined **e-commerce** app for shopping.
-
-Graduating from **Menoufia University**, my team and I secured **second place** in the university competition for our innovative **AR Pharmacy System**. Additionally, I’m a mentor at **GDSC FSS Tunis**, helping students master Flutter, and I share tips and tutorials on my **[YouTube channel](https://www.youtube.com/@ahmed_elsapagh)**.
-
----
-
-## 🌟 Experience & Companies
-
-### **[GDSC FSS Tunis](https://gdsc.community.dev/faculty-of-science-of-sfax/)**  
-**Role**: Flutter Mentor  
-- Conducted **8+ Flutter & Dart workshops** for students.
-- Created project-based learning materials for **50+ students**.
-
-### **[Freelance Developer](https://ahmedelsapagh101.web.app/)**  
-**Role**: Mobile App Developer  
-- Developed cross-platform apps for industries like **education**, **health**, and **social networking**.
-- Successfully completed **10+ projects**, with a **95% client satisfaction rate**.
-
-### **[Elmazoon App Team](https://play.google.com/store/apps/details?id=com.elmazoon.app)**  
-**Role**: Flutter Developer  
-- Developed a **study app** for over **4,000 students** using **Flutter** and **Firebase**.
-- Integrated **real-time data storage** and **user authentication**.
-
-### **Menoufia University AR Project Team**  
-**Role**: Team Leader  
-- Led a team to develop an **AR Pharmacy System** and secured **second place** in a university-wide competition.
-
----
-
-## 📱 Featured Projects
-
-### **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)**
-An educational app for over **4,000 students** offering courses, quizzes, and study materials.  
-**Tech Stack**: Flutter, Firebase  
-- Optimized app performance, reducing load time by **30%**.
-  
-### **[Cheebo](https://play.google.com/store/apps/details?id=com.neuralbey.cheebo)**
-A **social platform** for **pet lovers** to connect, share, and shop for pet supplies.  
-**Tech Stack**: Flutter, Firebase  
-- Integrated **chat**, **content sharing**, and **veterinary advice**.
-
-### **[AR Pharmacy System](https://example.com)**
-An **augmented reality app** for visualizing products in pharmacies.  
-**Tech Stack**: ARKit, Flutter, Firebase  
-- Created an interactive AR experience for **pharmacy shopping**.
-
----
-
-## 🛠️ Skills & Tools
-
+<h2 align="center">🚀 About Me</h2>
 <p align="center">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40">
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
-  </a>
+  Full-stack mobile developer with <strong>3+ years</strong> experience building production-ready apps with 100k+ cumulative downloads. Specialized in Flutter architecture, cross-platform solutions, and mentoring developers. Passionate about creating apps that solve real-world problems while delivering exceptional user experiences.
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">💼 Professional Experience</h2>
+
+### **TOP BUSINESS** (On-site) | _Flutter Developer_  
+**July 2023 - Present**  
+- Led development of 8+ commercial apps including Elmazoon (4k+ students), Beda3a, and MedoSedo
+- Architected solutions using Clean Architecture with Cubit/Provider state management
+- Integrated complex features: Payment gateways, Google Maps, Firebase FCM, and Odoo ERP
+- Successfully published 5+ apps on Google Play & App Store with 4.8+ avg rating
+
+### **NeuralBey** (Remote) | _Flutter Developer_  
+**March 2023 - Present**  
+- Built Cheebo pet community app from concept to production (10k+ users)
+- Implemented real-time chat, e-commerce, and vet consultation features
+- Reduced API response time by 40% through Dio optimization
+- Designed CI/CD pipeline for automated testing & deployment
+
+### **GDSC FSS Tunis** | _Flutter Mentor_  
+**2022 - Present**  
+- Trained 100+ students through 8 intensive Dart/Flutter workshops
+- Created project-based curriculum covering REST APIs, Firebase, and BLoC
+- Mentored 5 student teams to publish their first Play Store apps
+
+---
+
+<h2 align="center">🎯 Technical Expertise</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsapagh10&show_icons=true&theme=radical" alt="GitHub Stats">
+  <strong>Core:</strong> Flutter | Dart | Clean Architecture | SOLID Principles<br>
+  <strong>State Management:</strong> BLoC | Cubit | Provider | Riverpod<br>
+  <strong>Backend:</strong> Firebase | Node.js | REST APIs | GraphQL | JWT<br>
+  <strong>Database:</strong> SQLite | Hive | SharedPreferences | MongoDB<br>
+  <strong>DevOps:</strong> GitHub Actions | CI/CD | Fastlane | Play Console<br>
+  <strong>UI/UX:</strong> Material Design | Responsive Layouts | Lottie Animations<br>
+  <strong>Tools:</strong> Figma | Postman | Android Studio | VS Code
 </p>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,git,figma,github,postman&perline=8" alt="Tech Stack">
+</div>
+
+---
+
+<h2 align="center">🏆 Key Projects</h2>
+
+| Project | Description | Technologies | Highlights |
+|---------|-------------|--------------|------------|
+| **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Integrated live video streaming |
+| **[Cheebo](https://example.com)** | Pet Community App | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet appointment scheduling |
+| **[AR Pharmacy](https://example.com)** | AR Medication Visualizer | Flutter, Unity, ARCore | • 2nd place university competition<br>• 3D model integration |
+| **[MedoSedo](https://example.com)** | E-commerce Solution | Flutter, Odoo, Payment Gateways | • Multi-vendor support<br>• 15% conversion rate boost |
+| **[Deals CRM](https://example.com)** | Sales Management System | Flutter, Odoo ERP, BI Tools | • Automated sales reporting<br>• 20% team productivity increase |
+
+---
+
+<h2 align="center">📚 Education & Achievements</h2>
+
+- **B.Sc in Information Technology**  
+  Menoufia University (2018-2022)  
+  GPA: 3.8/4.0 | Rank: Top 10%  
+  **Award:** 2nd Place - AR Pharmacy System (University Competition)
+
+- **Certifications:**  
+  • Google Flutter Festival Mentor  
+  • Firebase Professional (FCP)  
+  • Clean Architecture Specialist
+
+---
+
+<h2 align="center">📈 GitHub Impact</h2>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsapagh10&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedelsapagh10&show_icons=true&theme=nightowl&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedelsapagh10&theme=nightowl" alt="GitHub Streak">
 </p>
 
 ---
 
-## 🌟 Testimonials
+<h2 align="center">🌟 Community Presence</h2>
 
-> **"Ahmed's work on Elmazoon was incredible. He brought the app to life and exceeded all expectations."**  
-— *Project Manager, Elmazoon*
+- **YouTube:** 50+ Flutter tutorials (1k+ subs)
+- **Medium:** Technical writer (15k+ reads)
+- **GDSC Tunis:** Lead Flutter mentor
+- **Stack Overflow:** Top 10% Flutter contributor
 
-> **"Ahmed is an outstanding mentor. His Flutter tutorials at GDSC Tunis were invaluable for our students."**  
-— *Coordinator, GDSC FSS Tunis*
+<div align="center">
+  <a href="https://www.youtube.com/@ahmed_elsapagh" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/ahmed-elsapagh-aa8010220/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ahmedelsapagh10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ---
 
-## 🤝 Let's Collaborate
-
-I’m always excited to collaborate on impactful projects and connect with like-minded professionals.  
-Feel free to [**reach out**](mailto:ahmedelsapagh179@gmail.com) or [**connect with me on LinkedIn**](https://linkedin.com/in/ahmed-elsapagh-aa8010220/).
+<h2 align="center">📬 Let's Build Tomorrow</h2>
+<p align="center">
+  Ready to turn your app idea into reality?<br>
+  <a href="mailto:ahmedelsapagh179@gmail.com">📧 Email Me</a> | 
+  <a href="https://calendly.com/ahmed-elsapagh">📅 Schedule Call</a> | 
+  <a href="https://read.cv/ahmedelsapagh">📄 View CV</a>
+</p>
