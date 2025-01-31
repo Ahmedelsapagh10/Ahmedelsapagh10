@@ -25,9 +25,7 @@
 **March 2023 - Present**  
 - Built Cheebo pet community app from concept to production (10k+ users)
 - Implemented real-time chat, e-commerce, and vet consultation features
-- Reduced API response time by 40% through Dio optimization
-- Designed CI/CD pipeline for automated testing & deployment
-
+- My app offers interactive post management for a lively community, with features to add, edit, and delete posts. Users can effortlessly connect through secure chat, add or search for pets, and enjoy streamlined e-commerce for pet supplies. The geolocation feature enhances convenience, simplifying the search for nearby veterinarians to elevate the overall pet care experience.
 ### **GDSC FSS Tunis** | _Flutter Mentor_  
 **2022 - Present**  
 - Trained 50+ students through 8 intensive Dart/Flutter workshops
