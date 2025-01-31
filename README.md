@@ -74,8 +74,7 @@
   **Award:** 2nd Place - AR Pharmacy System (University Competition)
 
 - **Certifications:**  
-  • Google Flutter Festival Mentor  
-  • Firebase Professional (FCP)  
+  • Google Devloper Student Club In Tunisia  
   • Clean Architecture Specialist
 
 ---
