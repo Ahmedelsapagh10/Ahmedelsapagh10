@@ -77,7 +77,7 @@
 | Project | Description | Technologies | Highlights |
 |---------|-------------|--------------|------------|
 | **[Cheebo](https://play.google.com/store/apps/details?id=com.neuralbey.cheebo)** | Pet Community App (10k+ users) | Flutter, WebSocket, Mapbox | • Real-time chat system<br>• Vet e-consultation feature |
-| **[Elmazoon](https://play.google.com/store/apps/details?id=com.elmazoon.app)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Live sessions & exam system |
+| **[Elmazoon](https://play.google.com/store/apps/details?id=com.topbusiness.new_mazoon)** | Education Platform (4k+ users) | Flutter, Firebase, Node.js | • Reduced load time by 30%<br>• Live sessions & exam system |
 | **[MedoSedo](https://play.google.com/store/apps/details?id=com.topbusiness.medosedo_ecom)** | Multi-Vendor E-commerce | Flutter, Odoo, Payment Gateways | • 15% conversion boost<br>• Vendor management system |
 | **[Deals CRM](https://play.google.com/store/apps/details?id=net.topbusiness.deals)** | Sales Management System | Flutter, Odoo ERP | • Automated reporting<br>• 20% team productivity gain |
 | **[unocafe HR](https://play.google.com/store/apps/details?id=com.topbusiness.unocafe)** | Employee Management | Flutter, Firebase | • Attendance tracking<br>• Salary/payroll automation |
